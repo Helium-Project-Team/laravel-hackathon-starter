@@ -1,5 +1,5 @@
 ![](https://cloud.githubusercontent.com/assets/2946769/13175239/6950a682-d709-11e5-910e-b065a6cf5617.jpg)
-
+updated
 # Laravel Hackathon Starter - SUSUMU 進
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg) [![Build Status](https://img.shields.io/travis/unicodeveloper/laravel-hackathon-starter.svg)](https://travis-ci.org/unicodeveloper/laravel-hackathon-starter) [![Quality Score](https://img.shields.io/scrutinizer/g/unicodeveloper/laravel-hackathon-starter.svg?style=flat-square)](https://scrutinizer-ci.com/g/unicodeveloper/laravel-hackathon-starter)
 
